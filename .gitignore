@@ -1,0 +1,2 @@
+#忽略 node 模块目录
+node_modules/
